@@ -36,5 +36,6 @@
       <li>2 ensino médio link:</li>
       <li>3 ensino médio link:</li>
   </ul>
+  <img src="img/adv.png" />
 </body>
 </html>
