@@ -11,7 +11,7 @@
       <ul>
        <li>Esse é um site realizado por apenas duas pessoas, então encarecidamente peço-lhes que não tentem invadi-lo.</li>
        <li>Se forem usar com frequência utilizem um guia anônimo ou um vpn, por causa do baixo nível de segurança atual "estamos trabalhando nesse quesito". </li>
-        <li>Nossa equipe tecnica irá realizar atualizações no horário entre <strong>13hrs</strong><strong>17hrs</strong> fora desse horário o site irá funcionar com eficiencia. </li>
+        <li>Nossa equipe tecnica irá realizar atualizações no horário entre <strong>13hrs</strong> e <strong>17hrs</strong> fora desse horário o site irá funcionar com eficiencia. </li>
        <li> Nossa equipe de desenvolvimento está sempre ouvindo sugestões ou duvidas, caso tenha entre em contato com este e-mail <strong>nenhuma4321@gmail.com</strong> </li>
       </ul>
      <h2>Conteúdo da chave de seguranca do wifi:</h2>
