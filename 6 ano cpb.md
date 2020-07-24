@@ -1,6 +1,6 @@
 <html>
  <head>
-  <header>gabarito CPB 6 ano</header>
+  <header><strong>Gabarito CPB 6 ano</strong></header>
    <meta charset="utf-8" />
  </head>
  <body>
