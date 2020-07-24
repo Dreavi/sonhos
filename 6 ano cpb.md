@@ -4,7 +4,7 @@
    <meta charset="utf-8" />
  </head>
  <body>
-  <h1>desta semana: </h1>
+  <h1>Desta semana: </h1>
    <ul>
     <li>Português: </li>
     <li>Matemática:</li>
@@ -16,7 +16,7 @@
     <li>Inglês:</li>
     <li>Espanhol:</li>
    </ul>
-  <h2>deste mês:</h2>
+  <h2>Deste mês:</h2>
   <ul>
     <li>Português: </li>
     <li>Matemática:</li>
