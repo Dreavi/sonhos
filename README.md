@@ -18,10 +18,10 @@
       <p> <strong>Senha do wifi:</strong></p>
       <h3> Link das respostas do cpb provas "em produção"</h3>
       <ul>
-      <li>6 ano link:<a href="cpb 6 ano.html">6 ANO CPB</a> </li>
-      <li>7 ano link:<a href="cpb 7 ano.html">7 ANO CPB</a> </li>
-      <li>8 ano link:<a href="cpb 8 ano.html">8 ANO CPB</a> </li>
-      <li>9 ano link:<a href="cpb 9 ano.html">9 ANO CPB</a> </li>
+      <li>6 ano link:<a href="cpb 6 ano.html" target="_blank">6 ANO CPB</a> </li>
+      <li>7 ano link:<a href="cpb 7 ano.html" target="_blank">7 ANO CPB</a> </li>
+      <li>8 ano link:<a href="cpb 8 ano.html" target="_blank">8 ANO CPB</a> </li>
+      <li>9 ano link:<a href="cpb 9 ano.html" target="_blank">9 ANO CPB</a> </li>
       <li>1 ensino médio link:</li>
       <li>2 ensino médio link:</li>
       <li>3 ensino médio link:</li> 
