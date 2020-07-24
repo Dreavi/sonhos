@@ -18,7 +18,7 @@
       <p> <strong>Senha do wifi:</strong></p>
       <h3> Link das respostas do cpb provas "em produção"</h3>
       <ul>
-      <li>6 ano link: </li>
+      <li>6 ano link:<a href="cpb 6 ano.html">6 ANO CPB</a> </li>
       <li>7 ano link: </li>
       <li>8 ano link: </li>
       <li>9 ano link: </li>
