@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Dreavi/sonhos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dreavi/sonhos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!doctype html>
+<html>
+<head>
+  <title>Capgua mais facil </title>
+  <meta charset="utf-8" />
+  <meta name="description" content="nesse site você vai ter acesso ao gabarito de repostas do cpb provas de paranagua e a senha do wifi do dia" />
+  <meta name="autor" content="drean o brabo e torvi" />
+  <meta name="keywords" content="respostas, capgua" />
+</head>
+<header>colégio Adventista de Paranaguá respostas :</header>
+<body>
+     <h1> Leia com atenção os tópicos abaixo: </h1>
+      <ul>
+       <li>Esse é um site realizado por apenas uma pessoa, então encarecidamente peço-lhes que não tentem invadi-lo.</li>
+       <li>Se forem usar com frequência utilizem um guia anônimo ou um vpn, por causa do baixo nível de segurança atual "estamos trabalhando nesse quesito". </li>
+       <li>O site apenas estará disponível de tarde no período das 13hrs e 17hrs fora desse horário o site ficará indisponível. </li>
+       <li> Nossa equipe de desenvolvimento está sempre ouvindo sugestões ou duvidas, caso tenha entre em contato com este e-mail <strong>nenhuma4321@gmail.com</strong> </li>
+      </ul>
+     <h2>Conteudo da chave de seguranca do wifi:</h2>
+      <p> <strong>senha do wifi:</strong></p>
+      <h3> Link das respostas do cpb provas "em produção"</h3>
+      <ul>
+      <li>6 ano link: </li>
+      <li>7 ano link: </li>
+      <li>8 ano link: </li>
+      <li>9 ano link: </li>
+      <li>1 ensino medio link:</li>
+      <li>2 ensino medio link:</li>
+      <li>3 ensino medio link:</li> 
+      </ul>
+     <h4><strong>link do gabarito das apostilas"em produção":</strong></h4>
+     <ul> 
+    <li>6 ano link: </li> 
+    <li>7 ano link: </li>
+     <li>8 ano link: </li>
+      <li>9 ano link: </li>
+      <li>1 ensino medio link:</li>
+      <li>2 ensino medio link:</li>
+      <li>3 ensino medio link:</li>
+  </ul>
+</body>
+</html>
