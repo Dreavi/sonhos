@@ -2,6 +2,7 @@
  <head>
   <header>gabarito CPB 7 ano</header>
    <meta charset="utf-8" />
+  <meta name="autor" content="drean o brabo e torvi" />
  </head>
  <body>
   <h1>desta semana: </h1>
