@@ -7,7 +7,7 @@
   <header><strong>Colégio Adventista de Paranaguá respostas:</strong></header>
 </head>
 <body>
-     <h1> Leia com atenção os tópicos abaixo: </h1>
+     <h1><strong> Leia com atenção os tópicos abaixo: </strong></h1>
       <ul>
        <li>Esse é um site realizado por apenas uma pessoa, então encarecidamente peço-lhes que não tentem invadi-lo.</li>
        <li>Se forem usar com frequência utilizem um guia anônimo ou um vpn, por causa do baixo nível de segurança atual "estamos trabalhando nesse quesito". </li>
@@ -16,7 +16,7 @@
       </ul>
      <h2>Conteúdo da chave de seguranca do wifi:</h2>
       <p> <strong>Senha do wifi:</strong></p>
-      <h3> Link das respostas do cpb provas "em produção"</h3>
+      <h3> Link das respostas do CPB provas "em produção"</h3>
       <ul>
       <li>6 ano link:<a href="cpb 6 ano.html" target="_blank">6 ANO CPB</a> </li>
       <li>7 ano link:<a href="cpb 7 ano.html" target="_blank">7 ANO CPB</a> </li>
