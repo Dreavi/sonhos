@@ -1,6 +1,6 @@
 <html>
  <head>
-  <header><strong>Gabarito CPB 7 ano</strong></header>
+  <header><strong>Gabarito CPB 7 ano: </strong></header>
    <meta charset="utf-8" />
   <meta name="autor" content="drean o brabo e torvi" />
  </head>
