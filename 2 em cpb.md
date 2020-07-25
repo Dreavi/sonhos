@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
  <head>
   <title>Gabarito CPB 2 EM</title>
