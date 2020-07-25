@@ -7,7 +7,7 @@
   <meta name="description" content="nesse site você vai ter acesso ao gabarito de repostas do cpb provas de paranagua e a senha do wifi do dia" />
   <meta name="autor" content="drean o brabo e torvi" />
   <meta name="keywords" content="respostas, capgua" />
-  <header><strong>Colégio Adventista de Paranaguá respostas:</strong></header>
+  <br /><header><strong>Colégio Adventista de Paranaguá respostas:</strong></header>
 </head>
 <body>
      <h1><strong> Leia com atenção os tópicos abaixo: </strong></h1>
