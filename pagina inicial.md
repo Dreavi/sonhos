@@ -1,5 +1,8 @@
 <html>
 <head>
+  <title>
+    Capgua Mais Facil
+  </title>
   <meta charset="utf-8" />
   <meta name="description" content="nesse site você vai ter acesso ao gabarito de repostas do cpb provas de paranagua e a senha do wifi do dia" />
   <meta name="autor" content="drean o brabo e torvi" />
